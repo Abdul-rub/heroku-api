@@ -70,5 +70,17 @@
         "email": "ioffen9@slideshare.net",
         "gender": "Male"
       }
+    ],
+    "dogs":[
+      {
+        "name":"baba",
+        "id":1
+
+      },
+      {
+        "name":"lala",
+        "id":2
+        
+      }
     ]
   }
